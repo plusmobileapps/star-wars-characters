@@ -1,1 +1,1 @@
-# star-wars-characters
+# Sample Data Set of Star Wars Characters
